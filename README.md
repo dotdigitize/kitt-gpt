@@ -103,9 +103,9 @@ Save the model and click on "Build Model".
 Go to "Code" section and add "openai" to requirements.txt. Your requirements.txt should look like this:
 
 ```txt
-ask-sdk-core==1.11.0
-boto3==1.9.216
-requests>=2.20.0
+ask-sdk-core==1.19.0
+boto3==1.28.78
+requests>=2.31.0
 ```
 
 ### 10.
